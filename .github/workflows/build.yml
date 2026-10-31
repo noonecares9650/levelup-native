@@ -1,4 +1,4 @@
-﻿name: Build Native APK
+name: Build Native APK
 
 on:
   push:
